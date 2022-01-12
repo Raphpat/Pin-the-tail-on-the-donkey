@@ -1,3 +1,7 @@
+'''
+Image captionning example using keras discussed in dissertation outline
+'''
+
 import os
 import re
 import numpy as np
