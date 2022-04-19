@@ -15,4 +15,4 @@ If you’re using the glove with this program, make sure to set the COM port pro
 If you remove the glove from this list and reconnect it, the COM port may change. 
 The “gloveControlExample” file also reference the COM port, so if you want to run these programs you will need to change the COM port there as well (they each contain the COM port twice). This file was provided by Dr Kevin Swingler with the glove as an example of how to use it.
 
-Donkey_ObJ_Det_Predict is based on https://keras.io/examples/vision/retinanet/ and was adapted to work with the donkey dataset by Dr Kevin Swingler
+Donkey_ObJ_Det_Predict is based on https://keras.io/examples/vision/retinanet/ and was adapted to work with the donkey dataset by Dr Kevin Swingler. It can run detection on donkey images. The path to the image to detect can be set in the last cell.
